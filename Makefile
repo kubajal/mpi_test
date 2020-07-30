@@ -1,5 +1,3 @@
-INC=C:\Program Files (x86)\Microsoft SDKs\MPI\Include
-
 all: test
 
 test.o: test.c
